@@ -2,6 +2,7 @@
  <div>
    <a href="https://github.com/vicmalverde">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicmalverde&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmalverde&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
  <div style="display: inline_block"><br>
